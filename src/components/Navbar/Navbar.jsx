@@ -18,7 +18,7 @@ const Navbar = () => {
         />
       </div>
       <div className="w-2/6 flex justify-end items-center">
-        <button className="flex border-2 border-white hover:border-yellow-500 px-5 py-1 rounded-3xl normal-text hover:text-yellow-500">
+        <button className="flex  normal-text hover:text-yellow-500">
           <h3 className=" pr-3 ">Menu</h3>
           <CgMenuGridO className=" w-auto h-8 " />
         </button>
